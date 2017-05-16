@@ -1,0 +1,27 @@
+walk,-16636,-316,863
+walk,-16638,-301,863
+wait,5000
+teleport,Alexandria (South),Alexandria (North)
+wait,5000
+walk,-16111,48,1535
+walk,-16094,47,1532
+walk,-16078,55,1549
+walk,-16053,67,1558
+walk,-16032,77,1560
+walk,-16005,88,1559
+walk,-15976,101,1548
+walk,-15939,114,1505
+walk,-15904,114,1453
+walk,-15868,103,1384
+walk,-15833,97,1325
+walk,-15809,103,1281
+cast,Job - Merchant Pipe
+walk,-15793,109,1240
+walk,-15770,123,1125
+walk,-15739,141,937
+walk,-15717,164,792
+walk,-15709,177,725
+dismount
+wait,2000
+dismount
+wait,2000

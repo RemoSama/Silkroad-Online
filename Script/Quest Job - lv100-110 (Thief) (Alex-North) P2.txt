@@ -1,0 +1,24 @@
+walk,-15717,-77,1079
+walk,-15728,-60,1106
+walk,-15750,-28,1130
+walk,-15773,6,1154
+walk,-15791,34,1227
+walk,-15814,67,1281
+walk,-15839,86,1334
+walk,-15881,104,1406
+walk,-15924,116,1482
+walk,-15960,106,1530
+walk,-15989,94,1559
+mount,transport
+walk,-16019,78,1560
+walk,-16050,62,1558
+walk,-16078,48,1544
+walk,-16105,44,1529
+walk,-16106,58,1538
+quest,Smuggler Seek,Collecting Trade Goods - Wooden Doll! (Lvl 100-110),danger
+wait,2000
+dismount
+wait,2000
+terminate,all
+use,returnscroll
+DoScript
