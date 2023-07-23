@@ -1,9 +1,4 @@
-walk,6422,1034,-32
-terminate,transport
-walk,6463,1025,-32
-walk,6489,1015,0
-terminate,transport
-cast,Job - Caravan Bugle
+oldtrade,buy,5
 begintargettrading
 walk,6487,984,0
 walk,6463,967,-1
